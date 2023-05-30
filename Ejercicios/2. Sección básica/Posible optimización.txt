@@ -1,0 +1,1 @@
+Reemplazar el cálculo aritmético que redondeaba los números por round(numero, digitos decimales).
