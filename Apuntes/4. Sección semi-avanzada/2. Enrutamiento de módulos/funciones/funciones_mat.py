@@ -1,0 +1,1 @@
+por2 = lambda x: x*2
