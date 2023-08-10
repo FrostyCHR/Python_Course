@@ -116,7 +116,7 @@ print("---------------")
 
 lista = [0,512,62,"Hola", False]
 
-# El primer número es el índice en el que empezamos (incluido), y el seguno es en el que acabamos (no incluido). Nos referimos a LOS ELEMENTOS QUE NOS QUEDAMOS, el resto se eliminan.
+# El primer número es el índice en el que empezamos (incluido), y el segundo es en el que acabamos (no incluido). Nos referimos a LOS ELEMENTOS QUE NOS QUEDAMOS, el resto se eliminan.
 lista_cortada1 = lista[-3:-1]
 lista_cortada2 = lista[1:3]
 lista_cortada3 = lista[3:]

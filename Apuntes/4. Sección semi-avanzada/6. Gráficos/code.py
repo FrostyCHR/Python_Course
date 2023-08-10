@@ -28,7 +28,7 @@ plt.show()
 
 
 # GRÁFICO DE BARRAS:
-# Cofla, del curso de JavaScript, ya es programador, y tenemos que mostrar en un gráfico de barras (sectores) sus ingresos.
+# Cofla, del curso de JavaScript, ya es programador, y tenemos que mostrar en un gráfico de barras sus ingresos.
 
 df_cofla = pd.read_csv("Apuntes\\4. Sección semi-avanzada\\6. Gráficos\\ingresos_cofla.csv")
 sns.barplot(x="Fuente de ingresos", y="Ingresos($)", data=df_cofla)
